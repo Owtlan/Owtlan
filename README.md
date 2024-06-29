@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsvetomir Belchev</h1>
-<h3 align="center">✨A passionate frontend developer from Bulgaria i learning JavaScript at SoftUni. I really enjoy learning languages and frameworks like React. I have experience and with HTML/CSS libraries like Tailwind CSS/Bootstrap✨</h3>
+<h3 align="center">✨I am a passionate frontend developer from Bulgaria, currently learning JavaScript at SoftUni. I enjoy exploring languages and frameworks, especially React. Additionally, I have experience with HTML and CSS libraries such as Tailwind CSS and Bootstrap.✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owtlan&label=Profile%20views&color=0e75b6&style=flat" alt="owtlan" /> </p>
 
